@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+html, body {
+    margin:0;
+    padding:0;
+    height:100%;
+    }
+    
+    
+body {
+/* Created with https://www.css-gradient.com */
+background: rgba(163, 15, 216, 1.0);
+background: -webkit-linear-gradient(top left, rgba(163, 15, 216, 1.0), rgba(244, 152, 225, 1.0));
+background: -moz-linear-gradient(top left, rgba(163, 15, 216, 1.0), rgba(244, 152, 225, 1.0));
+background: linear-gradient(to bottom right, rgba(163, 15, 216, 1.0), rgba(244, 152, 225, 1.0));
+}
